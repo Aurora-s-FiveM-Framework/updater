@@ -1,7 +1,7 @@
 {
   "core": "0.1.0",
   "database_utils": "0.0.1",
-  "vacuumcleaner": "0.1.0",
+  "vacuumcleaner": "0.1.1",
   "socialcommands": "0.1.1",
   "support": "Enjoying my work? Go on https://ko-fi.com/eramsorgr and get some nice rewards for supporting the development!"
 }
